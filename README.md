@@ -1,20 +1,22 @@
 README File<br>
 
-📌 Features 🖼️ Transfer style from one image to another (e.g., from a painting to your selfie)
+📌 Features 🖼️ Transfer style from one image to another (e.g., from a painting to your selfie).
 
-⚙️ Runs locally in any Python environment (VS Code, PyCharm, terminal, etc.)
+⚙️ Runs locally in any Python environment (VS Code, PyCharm, terminal, etc.).
 
-🧠 Powered by TensorFlow Hub’s pre-trained arbitrary style transfer model
+🧠 Powered by TensorFlow Hub’s pre-trained arbitrary style transfer model.
 
-📷 Output is saved automatically and displayed with original images
+📷 Output is saved automatically and displayed with original images.
 
-🛠️ Requirements:
+<h3><b>🛠️ Requirements:</b></h3>
 
-Install the required Python packages:
+<h3>Install the required Python packages:</h3>
 
-!pip install tensorflow_hub pip install tensorflow tensorflow_hub pillow matplotlib ✅ Make sure you are using Python 3.7+ ✅ Internet connection is required to download the model from TensorFlow Hub
+!pip install tensorflow_hub pip install tensorflow tensorflow_hub pillow matplotlib.
+✅ Make sure you are using Python 3.7+ 
+✅ Internet connection is required to download the model from TensorFlow Hub.
 
-🚀 How to Use Place your content image (e.g., content.jpg) and style image (e.g., pixar_style.jpg) in the project folder.
+<h3><b>🚀 How to Use Place your content image (e.g., content.jpg) and style image (e.g., pixar_style.jpg) in the project folder.</b></h3>
 
 Run the script:
 
